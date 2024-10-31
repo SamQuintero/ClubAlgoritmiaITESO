@@ -4,8 +4,8 @@
 
 ## Estructura del Repositorio
 
-- **solutions/**: Contiene soluciones a problemas de organizados por número/nombre de problema.
-- **resources/**: Incluye materiales y enlaces útiles para el aprendizaje de algoritmos.
+- **solutions/**: Contiene soluciones a problemas organizados por número/nombre de problema.
+- **resources/**: Incluye materiales y enlaces útiles 
 
 ## Cómo Usar
 
@@ -13,10 +13,7 @@ Para ver la solución de un problema específico, navega a la carpeta `solutions
 
 ## Recursos Adicionales
 
-## Contribuir
+### Contribuir
 
-Si deseas contribuir con más soluciones o recursos, por favor consulta el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para obtener información sobre cómo hacerlo.
----
-
-
+Si deseas contribuir con más soluciones o recursos, por favor consulta el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para obtener información sobre cómo hacerlo. ¡Apreciamos cualquier ayuda que puedas ofrecer!
 
