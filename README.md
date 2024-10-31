@@ -15,5 +15,4 @@ Para ver la solución de un problema específico, navega a la carpeta `solutions
 
 ### Contribuir
 
-Si deseas contribuir con más soluciones o recursos, por favor consulta el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para obtener información sobre cómo hacerlo. ¡Apreciamos cualquier ayuda que puedas ofrecer!
-
+Si deseas contribuir con más soluciones o recursos, por favor consulta el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para obtener información sobre cómo hacerlo. 
