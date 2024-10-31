@@ -6,7 +6,7 @@
 
 Aquí hay algunas maneras en las que puedes contribuir:
 
-### 1. Agregar Soluciones a Problemas de LeetCode
+### 1. Agregar Soluciones a Problemas
 
 Si deseas agregar una solución a un problema, sigue estos pasos:
 
@@ -64,7 +64,7 @@ Si conoces libros, tutoriales, o plataformas de práctica que consideres útiles
 
 Si tienes alguna pregunta o necesitas ayuda, no dudes en abrir un issue en el repositorio o contactar a los administradores del club.
 
-¡Gracias por contribuir y feliz programación!
+¡Gracias por contribuir!
 
 ---
 
